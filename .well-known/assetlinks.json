@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.orgname.ConnectedRetail",
+    "sha256_cert_fingerprints":
+    ["F7:2A:84:61:5C:BF:13:C6:C8:CB:B7:43:BE:19:0E:CF:F2:3E:B3:A6:D7:3C:F0:9E:ED:25:94:A0:48:57:54:82"]
+  }
+}]
